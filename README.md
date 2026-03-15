@@ -161,8 +161,8 @@ nltk.download('words')
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@amangupta982](https://github.com/amangupta982)
-- LinkedIn: [AmanGupta](https://www.linkedin.com/in/amangupta982/)
+- GitHub: [Aman Gupta](https://github.com/amangupta982)
+- LinkedIn: [Aman Gupta](https://www.linkedin.com/in/amangupta982/)
 
 ---
 
